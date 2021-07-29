@@ -21,3 +21,4 @@
 
 ### Information
 - How do I run the sqlscript? node sqlscript.js
+- Last Update: 29/07/2021
