@@ -1,6 +1,5 @@
 ### SQLMAP Script Open Source
 <p>
-    <a href="https://www.codefactor.io/repository/github/iuseyahoo/hootspam">
         <img src="https://www.codefactor.io/Content/badges/APlus.svg">
     </a>
     <a>
